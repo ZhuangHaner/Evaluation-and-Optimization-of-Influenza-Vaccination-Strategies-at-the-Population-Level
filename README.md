@@ -7,7 +7,3 @@ This repository contains the code for evaluating and optimizing influenza vaccin
 ## Overview
 
 A computational framework for evaluating the effectiveness of different influenza vaccination strategies across population demographics. Combines epidemiological modeling and optimization algorithms to identify optimal vaccination distribution strategies.
-
-## Contact
-
-Dr. Chen - [13698665@qq.com]
